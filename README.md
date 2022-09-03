@@ -1,5 +1,5 @@
 # CovidVisualization
-Visualization using graphjs
+Visualization using chartjs
 
 
 #INTRODUCTION
