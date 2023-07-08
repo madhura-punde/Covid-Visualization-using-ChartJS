@@ -5,9 +5,7 @@ function Footer() {
   return (
     <div className='footer'>
 
-            <p>copyright &copy; 2022 madhura punde</p>
-
-
+            <p>copyright &copy; {new Date().getFullYear()} madhura punde</p>
     </div>
   )
 }
