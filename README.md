@@ -1,5 +1,6 @@
-# Covid-Visualization
+# Covid-Visualization #
 Visualization using chartjs
+
 
 ## Introduction ##
 
