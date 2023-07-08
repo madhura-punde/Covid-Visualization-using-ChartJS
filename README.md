@@ -1,7 +1,6 @@
 # Covid-Visualization
 Visualization using chartjs
 
-
 ## Introduction ##
 
 This application demonstrates the statewise COVID data in the form of Bar and donut chart with react-chartjs-2 Library.  
