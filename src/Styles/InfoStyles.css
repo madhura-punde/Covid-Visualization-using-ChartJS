@@ -5,3 +5,16 @@
     padding: 10px;
    
   }
+
+
+  .customeclass{
+
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin-left: 40px;
+     /* border-style: solid; */
+    /* border-color: black; */
+    /* border-width: 2px;  */
+  
+  }
