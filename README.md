@@ -23,8 +23,6 @@ Whereas, Donut chart outlines the recovered patient data for 5 states.
 5) Current project is live on below link.
 
 
-https://covidapp-by-madhurapunde.herokuapp.com/
-
 ### view ###
 
 Final Overview
