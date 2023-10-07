@@ -27,6 +27,7 @@ Whereas, Donut chart outlines the recovered patient data for 5 states.
 
 Final Overview
 
+<img width="1429" alt="SS" src="https://github.com/madhura-punde/Covid-Visualization-using-ChartJS/assets/101276214/9ef09c52-dbe5-45dc-a8ed-a99b815871e9">
 
 
 <img width="1388" alt="Screenshot 2023-06-30 at 8 36 14 PM" src="https://github.com/madhura-punde/CovidVisualization/assets/101276214/a1d579c6-4337-47b8-9c1a-1a2220c3b568">
